@@ -15,7 +15,9 @@
 <ul>
 <li> Deep Learning in computer vision: the data-driven paradigm, feed
 forwards networks, back-propagation and chain rule; CNNs and their
-building blocks, generative adverserial networks (GANs)
+building blocks, generative adverserial networks (GANs), 
+Variational Autoencoders (VAEs) and Conditional Variational 
+Autoencoders (CVAEs)
 <li> Deep Learning applications including face detection, CNN
 compression, siamese and triplet networks and applications to face
 recognition
