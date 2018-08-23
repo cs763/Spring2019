@@ -1,8 +1,4 @@
-# Spring2019
-The Computer Vision Course at IITB (CS763), Spring 2019
-
-
-<h1>Computer Vision (CS 763) - Spring 2018 </h1>
+<h1>Computer Vision (CS 763) - Spring 2019 </h1>
 
 <h2>Course Information</h2>
 <ul>
