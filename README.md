@@ -5,11 +5,17 @@
 <li><b>Instructor:</b> <a href="http://www.cse.iitb.ac.in/~ajain/">Arjun Jain</a>
 <li><b>Office:</b> 216, CSE New Building
 <li><b>Email:</b> <i>ajain@cse DOT iitb DOT ac DOT in</i>
-<li><b>Teaching Assistants:</b> TBD
+<li><b>Teaching Assistants:</b> Rishabh Dabral, Safeer Afaque
 <li><b>Instructor Office Hours (in room 216 CSE New Building):</b> TBD
 </ul>
 
 <h3> Please note that CS663 is a hard prerequisite for this course.</h3> 
+
+<h2> News and Announcements</h2>
+<ul>
+<li>Monday class to be moved to 7pm slot to accommodate 3rd year students</li>
+</ul>
+	
 
 <h2>Topics to be covered (tentative)</h2>
 <ul>
@@ -86,7 +92,29 @@ There will be 5-6 assignments in this course. They will be a mix of theoretical 
       <th>Slides</th>
       <th>iTorch Notebooks</th>
       <th>Extra Reading</th>
-    </tr>  
+    </tr>  	  
+    <tr>
+      <td>7th Jan. 2018</td>
+      <td><ul><li>Introduction to computer vision, applications and course overview <ul></td>
+      <td><a href="https://drive.google.com/open?id=1i4lFRBwYeed8dHE_c2p4pnMF2k60OW8G">Slides</a></td>
+      <td align="center"> --
+      </td>
+      <td align="center">--</td>
+    </tr>        
+    <tr>
+      <td>8th Jan. 2018</td>
+      <td>
+	<strong>Camera Geometry</strong>
+	<ul>
+	<li>Homogeneous coordinates and projective geometry
+        <li>Vanishing points, ideal line, point line duality in P2
+        <li>Introduction to the pin-hole camera model
+      </ul></td>
+      <td><a href="https://drive.google.com/open?id=1dlewCNVqshBiPP6v3OvI8Rk4uds4L1U8">Slides</a></td>
+      <td align="center"> --
+      </td>
+      <td><a href="http://www.ipb.uni-bonn.de/book-pcv/pdfs/PCV-A-sample-page.pdf">Homogeneous Representations of Points, Lines and Planes</a></td>
+    </tr>
   </tbody>
 </table>
 
