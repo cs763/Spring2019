@@ -71,7 +71,7 @@ from motion
 As mentioned in the grading policy, this course has a project requirement which will be 20% of your grade. The project needs to be done in a group of 2-3 students. We will send out a form which needs to be filled up with your project proposal. For a list of project compleated last year as part of this, please check  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.md">this link</a> 
 
 <h2>Assignments</h2>
-There will be 5-6 assignments in this course. They will be a mix of theoretical and programming questions.
+There will be 7-8 assignments in this course. They will be a mix of theoretical and programming questions.
 
 <!--ul>
     <li><time datetime="2018-01-12">[12-Jan-18]</time> <a href="https://www.dropbox.com/s/mltmtj7bpc401vm/HW1.pdf?dl=0">Assignment 1</a> has been released. The due date for submission is Friday, January 26, 2018.
