@@ -14,6 +14,7 @@
 <h2> News and Announcements</h2>
 <ul>
 <li><b>[8/01/19]</b> Monday class to be moved to 7pm slot to accommodate 3rd year students</li>
+<li><b>[11/01/19]</b> The classroom has been moved to CC103 (slots 13A and 15A) due to overflow in CC105</li>
 </ul>
 	
 
