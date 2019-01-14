@@ -6,6 +6,7 @@
 <li><b>Office:</b> 216, CSE New Building
 <li><b>Email:</b> <i>ajain@cse DOT iitb DOT ac DOT in</i>
 <li><b>Teaching Assistants:</b> Rishabh Dabral, Safeer Afaque
+<li><b>Class Room:</b> SIC201
 <li><b>Instructor Office Hours (in room 216 CSE New Building):</b> TBD
 </ul>
 
@@ -14,7 +15,7 @@
 <h2> News and Announcements</h2>
 <ul>
 <li><b>[8/01/19]</b> Monday class to be moved to 7pm slot to accommodate 3rd year students</li>
-<li><b>[11/01/19]</b> The classroom has been moved to CC103 (slots 13A and 15A) due to overflow in CC105</li>
+<li><b>[14/01/19]</b> The classroom has been moved to <b>SIC201</b> (slots 13A and 15A) due to overflow in CC105</li>
 </ul>
 	
 
