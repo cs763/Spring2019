@@ -109,13 +109,26 @@ There will be 7-8 assignments in this course. They will be a mix of theoretical 
 	<strong>Camera Geometry</strong>
 	<ul>
 	<li>Homogeneous coordinates and projective geometry
-        <li>Vanishing points, ideal line, point line duality in P2
-        <li>Introduction to the pin-hole camera model
+        <li>Vanishing points, ideal line, point line duality in P2  
+	<li>Introduction to the pin-hole camera model
       </ul></td>
       <td><a href="https://drive.google.com/open?id=1dlewCNVqshBiPP6v3OvI8Rk4uds4L1U8">Slides</a></td>
       <td align="center"> --
       </td>
       <td><a href="http://www.ipb.uni-bonn.de/book-pcv/pdfs/PCV-A-sample-page.pdf">Homogeneous Representations of Points, Lines and Planes</a></td>
+    </tr>
+    <tr>
+      <td>14th Jan. 2018</td>
+      <td>
+	<ul>
+	<li>Important 2D and 3D transformations using homogenous coordinates
+	<li>Modeling the pinhole camera analytically, intinsic and extrinsic parameters
+	<li>World, camera, image plane and sensor plane coordinate systems and transformations between them
+      </ul></td>
+      <td><a href="https://drive.google.com/open?id=161WR4nVHlMm6WMc7DJoc-9NuAONPETfB">Slides</a></td>
+      <td align="center"> --
+      </td>
+      <td align="center"> -- </td>
     </tr>
   </tbody>
 </table>
