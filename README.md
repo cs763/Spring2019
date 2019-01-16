@@ -130,7 +130,22 @@ There will be 7-8 assignments in this course. They will be a mix of theoretical 
       </td>
       <td align="center"> -- </td>
     </tr>
-  </tbody>
+    <tr>
+      <td>15th Jan. 2018</td>
+      <td>
+	<ul>
+	<li>Linear and non-linear (lens distortion) errors
+	<li>Homography, planar world and pure rotation of the camera
+	<li>Iterative solutions for dealing with with non-linear (lens distortion) errors
+	<li>Normalized,  ideal, euclidian, affine and general camera models
+	<li>Orthographic and weak-perspective camera models
+      </ul></td>
+      <td><a href="https://drive.google.com/open?id=1E7YgsBX2eD8GAOc7-5EJe-ssIgBw_crX">Slides</a></td>
+      <td align="center"> --
+      </td>
+      <td align="center"> -- </td>
+    </tr>
+</tbody>
 </table>
 
 
