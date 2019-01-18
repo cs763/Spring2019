@@ -16,6 +16,7 @@
 <ul>
 <li><b>[8/01/19]</b> Monday class to be moved to 7pm slot to accommodate 3rd year students</li>
 <li><b>[14/01/19]</b> The classroom has been moved to <b>SIC201</b> (slots 13A and 15A) due to overflow in CC105</li>
+<li><b>[17/01/19]</b> Assignment 1 has been <a href="https://drive.google.com/open?id=1CAlU8fp_46d1tpRcC6evWpkDj1_TAhs4">released</a> and is due by 27th Jan.</li>
 </ul>
 	
 
@@ -74,6 +75,9 @@ As mentioned in the grading policy, this course has a project requirement which 
 
 <h2>Assignments</h2>
 There will be 7-8 assignments in this course. They will be a mix of theoretical and programming questions.
+<ul>
+	<li> Assignment 1 on Camera Geometry has been <a href="https://drive.google.com/open?id=1CAlU8fp_46d1tpRcC6evWpkDj1_TAhs4">released</a> and is due by 27th Jan.
+</ul>
 
 <!--ul>
     <li><time datetime="2018-01-12">[12-Jan-18]</time> <a href="https://www.dropbox.com/s/mltmtj7bpc401vm/HW1.pdf?dl=0">Assignment 1</a> has been released. The due date for submission is Friday, January 26, 2018.
