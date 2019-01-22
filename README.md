@@ -149,6 +149,22 @@ There will be 7-8 assignments in this course. They will be a mix of theoretical 
       </td>
       <td align="center"> -- </td>
     </tr>
+    <tr>
+      <td>21st Jan. 2018</td>
+      <td>
+	<ul>
+	<li>Cross ratios and its applications
+	<li>Camera calibration using DLT (known 3D control points)
+	<li>Introduction to Zhang's camera calibration method
+        </ul>
+      </td>
+      <td><a href="https://drive.google.com/open?id=1ENsJKX9XDOQG9GJ9pAAHyngxxUnfiGL1">Slides</a></td>
+      </td>
+      <td align="center"> -- </td>
+      <td>
+	<a href="http://inside.mines.edu/~whoff/courses/EENG512/lectures/17-SVD.pdf">Resource on SVD</a><br/>
+	Additional <a href="http://cmp.felk.cvut.cz/cmp/courses/XE33PVR/WS20072008/Lectures/Supporting/constrained_lsq.pdf">slides</a> and <a href="https://foto.aalto.fi/seura/julkaisut/pjf/pjf_e/2005/Inkila_2005_PJF.pdf">notes</a> on solving homogenous least squares problem</a><br/>
+    </tr>
 </tbody>
 </table>
 
