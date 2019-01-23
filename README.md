@@ -71,7 +71,7 @@ from motion
 </ul>
 
 <h2>Course Projects</h2>
-As mentioned in the grading policy, this course has a project requirement which will be 20% of your grade. The project needs to be done in a group of 2-3 students. We will send out a form which needs to be filled up with your project proposal. For a list of project compleated last year as part of this, please check  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.md">this link</a> 
+As mentioned in the grading policy, this course has a project requirement which will be 20% of your grade. The project needs to be done in a group of 2-3 students. We will send out a form which needs to be filled up with your project proposal. For a list of project completed last year as part of this course, please check  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.md">this link</a>
 
 <h2>Assignments</h2>
 There will be 7-8 assignments in this course. They will be a mix of theoretical and programming questions.
@@ -164,6 +164,26 @@ There will be 7-8 assignments in this course. They will be a mix of theoretical 
       <td>
 	<a href="http://inside.mines.edu/~whoff/courses/EENG512/lectures/17-SVD.pdf">Resource on SVD</a><br/>
 	Additional <a href="http://cmp.felk.cvut.cz/cmp/courses/XE33PVR/WS20072008/Lectures/Supporting/constrained_lsq.pdf">slides</a> and <a href="https://foto.aalto.fi/seura/julkaisut/pjf/pjf_e/2005/Inkila_2005_PJF.pdf">notes</a> on solving homogenous least squares problem</a><br/>
+    </tr>
+    <tr>
+      <td>22nd Jan. 2018</td>
+      <td>
+	<ul>
+	<li>Zhang's camera calibration method, mention of a few DL based calibration methods
+	</ul>
+	      <strong>Image Alignment</strong>
+	<ul>
+	<li>Image alignment: problem statement, physically and digitally corresponding points
+	<li> Motion models and degrees of freedom; non-rigid/deformable/non-parametric image alignment
+	<li> Control point based image alignment using least squares - derivation for pseudo-inverse
+	<li> Introduction to the SIFT algorithm
+	<li> Forward and reverse image warping - bilinear and nearest-neighbor interpolation
+	<li> Mention of DL based image patch descriptors
+      </ul></td>
+      <td><a href="https://drive.google.com/open?id=1W9sQn-O1IUYrHJFf1lsbQYtxOxVWIJGp">Slides</a></td>
+      <td align="center"> --
+      </td>
+      <td align="center"> -- </td>
     </tr>
 </tbody>
 </table>
