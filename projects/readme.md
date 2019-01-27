@@ -16,7 +16,6 @@ You can choose projects given in the list below or you can propose your project 
 <h2>Some Proposed Projects</h2>
 <ol>
 <li><b>Monocular SLAM</b> For details look at this <a href= "https://www.doc.ic.ac.uk/~ab9515/introductiontomonocular.html"> link </a>
-  <li><b>A Multi-layer Composite Model for Human Pose Estimation: </b> Take a look at <a href="http://vision.soic.indiana.edu/projects/poserecognition/">this</a>
   <li><b>Abnormality detection problem in crowded scenes: </b> Take a look at these datasets and their detail <a href="http://www.svcl.ucsd.edu/projects/anomaly/dataset.html">Dataset 1</a> and <a href="http://crcv.ucf.edu/projects/Abnormal_Crowd/">Dataset 2</a>
   <li><b>Online action detection identification of temporal recurrent patterns in videos: </b> Real-time applications such as  surveillance and driver assistance systems require identifying actions as soon as each video frame arrives, based only on current and historical observations. For details look at this paper. <a href="https://arxiv.org/pdf/1811.07391.pdf">Link</a>
 <li><b>Bokeh(Depth of field) effect with a single camera <a href="https://en.wikipedia.org/wiki/Bokeh">(link): </b></a>Nowadays many mobile camera have "portrait mode", as they call it, which generates a synthetic depth of field effect. This is generally done using a dual camera design. Your challenge is to do it using a single camera image.
@@ -25,7 +24,7 @@ You can choose projects given in the list below or you can propose your project 
 <li><b>End-to-End License Plate Detection and Recognition:</b> Build an automated pipeline to acquire registration plate from images of vehicle and do OCR on them. For example look at <a href = "http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhenbo_Xu_Towards_End-to-End_License_ECCV_2018_paper.pdf" >this paper </a>
 <li><b>Plane extraction on surfaces:</b> Track a section of a plane so that a user can place a 3D object on the surface, for augmented reality applications.
 <li><p><b>Glyph based AR application:</b> Images below depict typical glyphs. You job is to develop an appication which tracks these glyphs, computes homography, and overlays 3D graphics over it, as in typical AR application.</p><p align="center"> <img src="glyphs_sample.png"></p>
-<li><b>Barrel distortion estimation and removal:</b> 
+<li><b>Barrel distortion estimation and removal</b> 
 <li><b>Tracking objects using mean shift:</b> Associated paper <a href="http://comaniciu.net/Papers/MsTracking.pdf">link</a>
 <li><b>Street sign translation:</b> Taking images of street signs and translating the text, as found in Google goggles, translate or World Lens(now defunct).
 <li><b>Face detection using CNN:</b> Creating and training CNN model to output bounding box for faces in images.
