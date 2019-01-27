@@ -1,17 +1,17 @@
 <h1>Computer Vision (CS 763) - Spring 2019 Project Information</h1>
 You can choose projects given in the list below or you can propose your project and get it approved by the TAs.
 
-<!--
 <h2>Timeline</h2>
 <ul>
   <li>Project Proposal Submission: 19/01/2019
-  <li>Proposal Review: 22/01/2019
-  <li>Mid Term Review: 09/03/2019
+  <li>Proposal Review: 02/02/2019
+  <li>Mid Term Review: TBD
+  <li>End Term Review: TBD
 </ul>
 
 <h2>Project Proposal Form</h2>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfGj--GVldmIWVZFAisMirPZEE6S3a1cEYjTHsiNXm__GPpFg/viewform">Project Proposal Form</a>
--->
+<a href="https://goo.gl/forms/cPDJaRkDNEAY9VjN2">Project Proposal Form</a>
+
 
 <h2>Some Proposed Projects</h2>
 <ol>
