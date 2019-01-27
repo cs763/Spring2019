@@ -16,6 +16,9 @@ You can choose projects given in the list below or you can propose your project 
 <h2>Some Proposed Projects</h2>
 <ol>
 <li><b>Monocular SLAM</b> For details look at this <a href= "https://www.doc.ic.ac.uk/~ab9515/introductiontomonocular.html"> link </a>
+  <li><b>A Multi-layer Composite Model for Human Pose Estimation: </b> Take a look at <a href="http://vision.soic.indiana.edu/projects/poserecognition/">this</a>
+  <li><b>Abnormality detection problem in crowded scenes: </b> Take a look at these datasets and their detail <a href="http://www.svcl.ucsd.edu/projects/anomaly/dataset.html">Dataset 1</a> and <a href="http://crcv.ucf.edu/projects/Abnormal_Crowd/">Dataset 2</a>
+  <li><b>Online action detection identification of temporal recurrent patterns in videos: </b> Real-time applications such as  surveillance and driver assistance systems require identifying actions as soon as each video frame arrives, based only on current and historical observations. For details look at this paper. <a href="https://arxiv.org/pdf/1811.07391.pdf">Link</a>
 <li><b>Bokeh(Depth of field) effect with a single camera <a href="https://en.wikipedia.org/wiki/Bokeh">(link): </b></a>Nowadays many mobile camera have "portrait mode", as they call it, which generates a synthetic depth of field effect. This is generally done using a dual camera design. Your challenge is to do it using a single camera image.
 <li><b>Simulating depth of field using stereo images:</b> Same as 1 but this time you have pair of sterio images, get the dataset from here <a href="http://vision.middlebury.edu/stereo/data/2014/">link</a>
 <li><b>Evaluating handwritten mathematical expressions:</b> From a picture of a handwritten mathematical expression, your algorithm should recognize the expression and evaluate it.
