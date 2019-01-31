@@ -187,6 +187,40 @@ There will be 7-8 assignments in this course. They will be a mix of theoretical 
       </td>
       <td align="center"> -- </td>
     </tr>
+    <tr>
+      <td>28th Jan. 2018</td>
+      <td>
+	<ul>
+	<li>Image alignment using image similarity measures: mean squared error, normalized cross-correlation
+	<li>Concept of field of view in image alignment using image similarity measures
+	<li>Monomodal and multimodal image alignment
+	<li>Concept of joint histograms and behaviour of joint histograms in multi-modal image alignment	
+	<li>Concept of entropy and joint entropy, algorithm for multimodal registration by minimizing joint entropy
+	<li>Aspects of image registration: 2D/3D, motion model, monomodal or multimodal
+	<li>Application scenarios for image alignment: template matching, video stabilization, panorama generation, face recognition, 3D to 2D alignment
+      </ul></td>
+      <td><a href="https://drive.google.com/open?id=1lfIsf5ajCPElAgOzCekcQJ1KA-Me4LVG">Slides</a></td>
+      <td align="center"> --
+      </td>
+      <td align="center"> -- </td>
+    </tr>
+    <tr>
+      <td>29th Jan. 2018</td>
+      <td>
+	<strong>Robust Methods in Computer Vision</strong>
+	<ul>
+	<li>Least squares problems and their relation to the Gaussian distribution on the noise
+	<li>Examples of outliers in computer vision
+	<li>Explanation of why the Gaussian distribution is unsuited to handling outliers
+	<li>Introduction to the Laplacian distribution
+	<li>The importance of heavy-tailed distributions in robust statistics
+	<li>RANSAC (random sample consensus) algorithm
+      </ul></td>
+      <td><a href="https://drive.google.com/open?id=1RqxMvSm30aOOR36RLL1GFw8zOobyPLNk">Slides</a></td>
+      <td align="center"> --
+      </td>
+      <td align="center"> -- </td>
+    </tr>
 </tbody>
 </table>
 
