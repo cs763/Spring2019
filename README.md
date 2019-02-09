@@ -238,6 +238,24 @@ There will be 7-8 assignments in this course. They will be a mix of theoretical 
       </td>
       <td align="center"><a href="http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html">Matrix calculus reminder</a> </td>
     </tr>
+    <tr>
+      <td>5th Feb, 2018</td>
+      <td>
+	<ul>
+	<li>Vanilla momentum, Nesterov momentum, AdaGrad, RMSProp, ADAM 
+	<li>Second order optimization methods, it's issues with deep learning
+	<li>Good learning rate, learning rate decay
+	<li>Feed forward, back-propagation
+	<li>Fully connected layer
+      </ul></td>
+      <td><a href="https://drive.google.com/open?id=1qAIGlBDzlqK7hJ5yq94n7SS5gMXgCwoM">Slides</a></td>
+      <td align="center"> <a href="https://www.dropbox.com/s/i3jvya22tf5jtbs/GradientCheck.ipynb?dl=0">Gradient Check</a>,
+			<a href="https://github.com/cs763/Spring2018/blob/master/notebooks/Linear.ipynb">Linear Layer</a></td>
+      <td > <a href="https://github.com/pytorch/pytorch/blob/master/torch/optim/adam.py#L58">ADAM</a>, 
+     	    <a href="https://github.com/fidlej/optim/raw/master/dok/nesterov_simple.pdf">Nesterov</a> <br/>
+            <a href="http://ruder.io/optimizing-gradient-descent/index.html">DL optimization algorithms overview</a>
+      </td>
+    </tr>
 </tbody>
 </table>
 
