@@ -258,6 +258,21 @@ There will be 7-8 assignments in this course. They will be a mix of theoretical 
             <a href="http://ruder.io/optimizing-gradient-descent/index.html">DL optimization algorithms overview</a>
       </td>
     </tr>
+    <tr>
+      <td>11th Feb, 2018</td>
+      <td>
+	<ul>
+	<li>Activation functions: sigmoid, tanh, ReLU, LeakyReLU, ELU, etc.
+	<li>Convolutions: transposed, dilated, fully-connected as convolution, sliding window as convolution
+      </ul></td>
+      <td><a href="https://drive.google.com/open?id=1MePXPGCV8lVP4GMryKpoLJC8rgij_YiJ">Slides</a></td>
+      <td align="center"> <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/Max-Pool.ipynb">MaxPool</a>, 
+	      <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/Convolution.ipynb">Convolution</a>, 
+	      <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/Transposed%20Convolution.ipynb">Transposed convolution</a>,</td>
+      <td > <a href="https://arxiv.org/pdf/1603.07285.pdf">Convolution arithmetic for deep
+learning</a> </a>
+      </td>
+    </tr>
 </tbody>
 </table>
 
