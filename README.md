@@ -80,7 +80,7 @@ There will be 7-8 assignments in this course. They will be a mix of theoretical 
 <ul>
 	<li> Assignment 1 on Camera Geometry has been <a href="https://drive.google.com/open?id=1CAlU8fp_46d1tpRcC6evWpkDj1_TAhs4">released</a> and is due by 27th Jan.
 	<li> Assignment 2 on Camera Calibration, Image Alignment and Robust Methods has been <a href="https://drive.google.com/open?id=1JSCprJhTn-46qRDst_AcIV9EDDUeBBif">released</a> and is due by 8th Feb.</li>
-	<li> Assignment 3 on Neural Network and Backpropagation has been <a href="https://drive.google.com/open?id=14LkIcVMAPbO_nemyG6bCsNIOZx7BAfNO">released</a> and is due by 20th Feb.</li>
+	<li> Assignment 3 on Neural Network and Backpropagation has been <a href="https://drive.google.com/open?id=14LkIcVMAPbO_nemyG6bCsNIOZx7BAfNO">released</a> and is due by 20th Feb. Please use <a href="https://www.kaggle.com/t/1ddfc99a4b1a4eb9878a69991b17584c">this</a> Kaggle link to test your predictions and class standing.</li>
 </ul>
 
 <!--ul>
@@ -263,14 +263,25 @@ There will be 7-8 assignments in this course. They will be a mix of theoretical 
       <td>
 	<ul>
 	<li>Activation functions: sigmoid, tanh, ReLU, LeakyReLU, ELU, etc.
-	<li>Convolutions: transposed, dilated, fully-connected as convolution, sliding window as convolution
+	<li>Convolutional layer, dilated convolutions.
       </ul></td>
       <td><a href="https://drive.google.com/open?id=1MePXPGCV8lVP4GMryKpoLJC8rgij_YiJ">Slides</a></td>
-      <td align="center"> <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/Max-Pool.ipynb">MaxPool</a>, 
-	      <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/Convolution.ipynb">Convolution</a>, 
-	      <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/Transposed%20Convolution.ipynb">Transposed convolution</a>,</td>
+      <td align="center"> <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/Convolution.ipynb">Convolution</a></td>
       <td > <a href="https://arxiv.org/pdf/1603.07285.pdf">Convolution arithmetic for deep
 learning</a> </a>
+      </td>
+    </tr>
+    <tr>
+      <td>12th Feb, 2018</td>
+      <td>
+	<ul>
+	<li>Convolutions: transposed, dilated, fully-connected as convolution, sliding window as convolution
+	<li>Max-pooling, Dropout
+	<li>SoftMax, Cross Entropy
+      </ul></td>
+      <td><a href="https://drive.google.com/open?id=1HSbACNNUrWUG3wihOt8JNSps845YBXXl">Slides</a></td>
+      <td align="center"> <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/Transposed%20Convolution.ipynb">Transposed convolution</a>, <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/Max-Pool.ipynb">MaxPool</a>, <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/CEC.ipynb">Cross Entropy</a></td>
+      <td align="center"> -- </a>
       </td>
     </tr>
 </tbody>
