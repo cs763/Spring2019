@@ -284,6 +284,19 @@ learning</a> </a>
       <td align="center"> -- </a>
       </td>
     </tr>
+    <tr>
+      <td>18th Feb, 2018</td>
+      <td>
+	<ul>
+	<li>Data Augmentation, hyperparamter selection
+	<li>Weight initialization
+	<li>Babysitting the learning process
+      </ul></td>
+      <td><a href="https://drive.google.com/open?id=1hI028G8kDopJJSINNxm-miHNV4ENGEz2">Slides</a></td>
+      <td align="center"> <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/WeightInit.ipynb">Weight Initialization</a></td>
+      <td align="center"> -- </a>
+      </td>
+    </tr>
 </tbody>
 </table>
 
