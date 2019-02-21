@@ -297,6 +297,19 @@ learning</a> </a>
       <td align="center"> -- </a>
       </td>
     </tr>
+    <tr>
+      <td>19th Feb, 2018</td>
+      <td>
+	<ul>
+	<li>ConvNet applications
+	<li>ConvNet case studies: AlexNet, ZF-Net, VGGNet, GoogleNet, ResNet, SE-Net
+	<li>Transfer Learning
+      </ul></td>
+      <td><a href="https://drive.google.com/open?id=1AQ1k6e9p0DtPizGERbm4WQseoNE687u3">Slides</a></td>
+      <td align="center"> -- </td>
+      <td align="center"> -- </a>
+      </td>
+    </tr>
 </tbody>
 </table>
 
