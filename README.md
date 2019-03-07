@@ -104,7 +104,7 @@ There will be 7-8 assignments in this course. They will be a mix of theoretical 
       <th>Extra Reading</th>
     </tr>  	  
     <tr>
-      <td>7th Jan, 2018</td>
+      <td>7th Jan, 2019</td>
       <td><ul><li>Introduction to computer vision, applications and course overview <ul></td>
       <td><a href="https://drive.google.com/open?id=1i4lFRBwYeed8dHE_c2p4pnMF2k60OW8G">Slides</a></td>
       <td align="center"> --
@@ -112,7 +112,7 @@ There will be 7-8 assignments in this course. They will be a mix of theoretical 
       <td align="center">--</td>
     </tr>        
     <tr>
-      <td>8th Jan, 2018</td>
+      <td>8th Jan, 2019</td>
       <td>
 	<strong>Camera Geometry</strong>
 	<ul>
@@ -126,7 +126,7 @@ There will be 7-8 assignments in this course. They will be a mix of theoretical 
       <td><a href="http://www.ipb.uni-bonn.de/book-pcv/pdfs/PCV-A-sample-page.pdf">Homogeneous Representations of Points, Lines and Planes</a></td>
     </tr>
     <tr>
-      <td>14th Jan, 2018</td>
+      <td>14th Jan, 2019</td>
       <td>
 	<ul>
 	<li>Important 2D and 3D transformations using homogenous coordinates
@@ -139,7 +139,7 @@ There will be 7-8 assignments in this course. They will be a mix of theoretical 
       <td align="center"> -- </td>
     </tr>
     <tr>
-      <td>15th Jan, 2018</td>
+      <td>15th Jan, 2019</td>
       <td>
 	<ul>
 	<li>Linear and non-linear (lens distortion) errors
@@ -154,7 +154,7 @@ There will be 7-8 assignments in this course. They will be a mix of theoretical 
       <td align="center"> -- </td>
     </tr>
     <tr>
-      <td>21st Jan, 2018</td>
+      <td>21st Jan, 2019</td>
       <td>
 	<ul>
 	<li>Cross ratios and its applications
@@ -170,7 +170,7 @@ There will be 7-8 assignments in this course. They will be a mix of theoretical 
 	Additional <a href="http://cmp.felk.cvut.cz/cmp/courses/XE33PVR/WS20072008/Lectures/Supporting/constrained_lsq.pdf">slides</a> and <a href="https://foto.aalto.fi/seura/julkaisut/pjf/pjf_e/2005/Inkila_2005_PJF.pdf">notes</a> on solving homogenous least squares problem</a><br/>
     </tr>
     <tr>
-      <td>22nd Jan, 2018</td>
+      <td>22nd Jan, 2019</td>
       <td>
 	<ul>
 	<li>Zhang's camera calibration method, mention of a few DL based calibration methods
@@ -190,7 +190,7 @@ There will be 7-8 assignments in this course. They will be a mix of theoretical 
       <td align="center"> -- </td>
     </tr>
     <tr>
-      <td>28th Jan, 2018</td>
+      <td>28th Jan, 2019</td>
       <td>
 	<ul>
 	<li>Image alignment using image similarity measures: mean squared error, normalized cross-correlation
@@ -207,7 +207,7 @@ There will be 7-8 assignments in this course. They will be a mix of theoretical 
       <td align="center"> -- </td>
     </tr>
     <tr>
-      <td>29th Jan, 2018</td>
+      <td>29th Jan, 2019</td>
       <td>
 	<strong>Robust Methods in Computer Vision</strong>
 	<ul>
@@ -224,7 +224,7 @@ There will be 7-8 assignments in this course. They will be a mix of theoretical 
       <td align="center"> -- </td>
     </tr>
     <tr>
-      <td>4th Feb, 2018</td>
+      <td>4th Feb, 2019</td>
       <td>
 	<strong>Deep Learning for Computer Vision</strong>
 	<ul>
@@ -241,7 +241,7 @@ There will be 7-8 assignments in this course. They will be a mix of theoretical 
       <td align="center"><a href="http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html">Matrix calculus reminder</a> </td>
     </tr>
     <tr>
-      <td>5th Feb, 2018</td>
+      <td>5th Feb, 2019</td>
       <td>
 	<ul>
 	<li>Vanilla momentum, Nesterov momentum, AdaGrad, RMSProp, ADAM 
@@ -259,7 +259,7 @@ There will be 7-8 assignments in this course. They will be a mix of theoretical 
       </td>
     </tr>
     <tr>
-      <td>11th Feb, 2018</td>
+      <td>11th Feb, 2019</td>
       <td>
 	<ul>
 	<li>Activation functions: sigmoid, tanh, ReLU, LeakyReLU, ELU, etc.
@@ -272,7 +272,7 @@ learning</a> </a>
       </td>
     </tr>
     <tr>
-      <td>12th Feb, 2018</td>
+      <td>12th Feb, 2019</td>
       <td>
 	<ul>
 	<li>Convolutions: transposed, dilated, fully-connected as convolution, sliding window as convolution
@@ -285,7 +285,7 @@ learning</a> </a>
       </td>
     </tr>
     <tr>
-      <td>18th Feb, 2018</td>
+      <td>18th Feb, 2019</td>
       <td>
 	<ul>
 	<li>Data Augmentation, hyperparamter selection
@@ -298,7 +298,7 @@ learning</a> </a>
       </td>
     </tr>
     <tr>
-      <td>19th Feb, 2018</td>
+      <td>19th Feb, 2019</td>
       <td>
 	<ul>
 	<li>ConvNet applications
@@ -306,6 +306,29 @@ learning</a> </a>
 	<li>Transfer Learning
       </ul></td>
       <td><a href="https://drive.google.com/open?id=1AQ1k6e9p0DtPizGERbm4WQseoNE687u3">Slides</a></td>
+      <td align="center"> -- </td>
+      <td align="center"> -- </a>
+      </td>
+    </tr>
+    <tr>
+      <td>4th March, 2019</td>
+      <td>
+	<ul>
+	<li>Object Detection: RCNN, Fast-RCNN, Faster-RCNN, YOLO, SSD
+      </ul></td>
+      <td><a href="https://drive.google.com/open?id=1EMq1D76jUmLmsGMHCmZbdUh_iojxlq1m">Slides</a></td>
+      <td align="center"> -- </td>
+      <td align="center"> -- </a>
+      </td>
+    </tr>
+    <tr>
+      <td>5th March, 2019</td>
+      <td>
+	<ul>
+	<li>Object Detection evaluation metrics: IoU, mAP
+	<li>Object Detection details: RoIAlign, Feature Pyramid Network, Mask-RCNN, Focal Loss	
+      </ul></td>
+      <td><a href="https://drive.google.com/open?id=1EMq1D76jUmLmsGMHCmZbdUh_iojxlq1m">Slides</a></td>
       <td align="center"> -- </td>
       <td align="center"> -- </a>
       </td>
