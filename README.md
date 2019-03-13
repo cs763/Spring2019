@@ -333,6 +333,31 @@ learning</a> </a>
       <td align="center"> -- </a>
       </td>
     </tr>
+    <tr>
+      <td>11th March, 2019</td>
+      <td>
+	<ul>
+	<li>RNNs, LSTMs
+      </ul></td>
+      <td><a href="https://drive.google.com/open?id=10Di1sNnBe8DkyZ0fwwKRPPvCjcA89prU">Slides</a></td>
+      <td align="center"> -- </td>
+      <td align="center"> -- </a>
+      </td>
+    </tr>
+    <tr>
+      <td>12th March, 2019</td>
+      <td>
+	<ul>
+	<li>Visualizing and understanding ConvNets
+	<li>Images that maximize ConvNet class scores, reconstructing images from ConvNet <i>codes</i>
+	<li>Deep Dream, Neural Art, Adversarial Examples
+	<li>Dimentionality reduction: siamese and triplet networks
+      </ul></td>
+      <td><a href="https://drive.google.com/open?id=1fBsYmJ_CQysMQusggoXcsxUsEbn5b3Kr">Slides</a></td>
+      <td align="center"> -- </td>
+      <td align="center"> -- </a>
+      </td>
+    </tr>
 </tbody>
 </table>
 
