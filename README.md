@@ -19,8 +19,8 @@
 <li><b>[17/01/19]</b> Assignment 1 has been <a href="https://drive.google.com/open?id=1CAlU8fp_46d1tpRcC6evWpkDj1_TAhs4">released</a> and is due by 27th Jan.</li>
 <li><b>[30/01/19]</b> Assignment 2 has been <a href="https://drive.google.com/open?id=1JSCprJhTn-46qRDst_AcIV9EDDUeBBif">released</a> and is due by 8th Feb.</li>
 <li><b>[10/02/19]</b> Assignment 3 has been <a href="https://drive.google.com/open?id=14LkIcVMAPbO_nemyG6bCsNIOZx7BAfNO">released</a> and is due by 20th Feb.</li>
-</ul>
-	
+<li><b>[13/03/19]</b> Assignment 4 has been <a href="https://drive.google.com/open?id=1SV5JSvpz6MAbEShIqDORj8bG8POsbQk2">released</a> and is due by 23rd March.</li>
+</ul>	
 
 <h2>Topics to be covered (tentative)</h2>
 <ul>
@@ -81,6 +81,7 @@ There will be 7-8 assignments in this course. They will be a mix of theoretical 
 	<li> Assignment 1 on Camera Geometry has been <a href="https://drive.google.com/open?id=1CAlU8fp_46d1tpRcC6evWpkDj1_TAhs4">released</a> and is due by 27th Jan.
 	<li> Assignment 2 on Camera Calibration, Image Alignment and Robust Methods has been <a href="https://drive.google.com/open?id=1JSCprJhTn-46qRDst_AcIV9EDDUeBBif">released</a> and is due by 8th Feb.</li>
 	<li> Assignment 3 on Neural Network and Backpropagation has been <a href="https://drive.google.com/open?id=14LkIcVMAPbO_nemyG6bCsNIOZx7BAfNO">released</a> and is due by 20th Feb. Please use <a href="https://www.kaggle.com/t/1ddfc99a4b1a4eb9878a69991b17584c">this</a> Kaggle link to test your predictions and class standing.</li>
+	<li> Assignment 4 on Recurrent Neural Network has been <a href="https://drive.google.com/open?id=1SV5JSvpz6MAbEShIqDORj8bG8POsbQk2">released</a> and is due by 23rd March. Please use <a href="https://www.kaggle.com/t/758d87cd34864370ba209bda72f7d29b">this</a> Kaggle link to test your predictions and class standing.</li>
 </ul>
 
 <!--ul>
