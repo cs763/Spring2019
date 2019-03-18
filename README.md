@@ -359,6 +359,21 @@ learning</a> </a>
       <td align="center"> -- </a>
       </td>
     </tr>
+    <tr>
+      <td>18th March, 2019</td>
+      <td>
+	<ul>
+	<li>Neural Style Transfer
+	<li>Autoencoders
+	<li>Generative modeling: VAEs, GANs
+	<li>Case studies: pix2pix, CycleGAN, UNIT
+      </ul></td>
+      <td><a href="https://drive.google.com/open?id=1sHQT2mn6E9yKcSSHXUJZH5Dw0qgaW5id">Slides 1</a>
+	  <a href="https://drive.google.com/open?id=1oK7GwAY7oHYV32LUgxyEJoJZ3Zrqfl0d">Slides 2</td>
+      <td align="center"> -- </td>
+      <td align="center"> -- </a>
+      </td>
+    </tr>
 </tbody>
 </table>
 
