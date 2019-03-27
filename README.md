@@ -374,6 +374,17 @@ learning</a> </a>
       <td align="center"> -- </a>
       </td>
     </tr>
+    <tr>
+      <td>26th March, 2019</td>
+      <td>
+	<ul>
+		<li> <strong>Orthographic Structure from Motion</strong>
+      </ul></td>
+      <td><a href="https://drive.google.com/open?id=1m8sz3hF_qYQ6AoCqWOxq3yWyHHSBQzST">Slides</a></td>
+      <td align="center"> -- </td>
+      <td align="center"> -- </a>
+      </td>
+    </tr>
 </tbody>
 </table>
 
