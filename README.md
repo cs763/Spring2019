@@ -411,6 +411,17 @@ learning</a> </a>
       <td align="center"> -- </a>
       </td>
     </tr>
+    <tr>
+      <td>8th April, 2019</td>
+      <td>
+	<ul>
+		<li> <strong>Kanade-Lucas-Tomasi (KLT) Featurepoint Tracker</strong>
+      </ul></td>
+      <td><a href="https://drive.google.com/open?id=18oO-sIeJmfLTQTtE9rc7U8Ck8E30U6-x">Slides</a></td>
+      <td align="center"> -- </td>
+      <td align="center"> -- </a>
+      </td>
+    </tr>
 </tbody>
 </table>
 
