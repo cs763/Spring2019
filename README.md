@@ -378,9 +378,35 @@ learning</a> </a>
       <td>26th March, 2019</td>
       <td>
 	<ul>
-		<li> Orthographic Structure from Motion
+		<li> <strong>Orthographic Structure from Motion</strong>
       </ul></td>
       <td><a href="https://drive.google.com/open?id=1m8sz3hF_qYQ6AoCqWOxq3yWyHHSBQzST">Slides</a></td>
+      <td align="center"> -- </td>
+      <td align="center"> -- </a>
+      </td>
+    </tr>
+    <tr>
+      <td>1st April, 2019</td>
+      <td>
+	      <strong> Optical Flow </strong>
+      <ul>
+		<li> Dealing with the aperture problem: regularization
+	        <li> Horn and Shunck method: algorithm using discrete formulation, steps of Jacobi's method for matrix inversion, and comments about limitations 
+      </ul></td>
+      <td><a href="https://www.cse.iitb.ac.in/~ajitvr/CS763_Spring2017//OpticalFlow.pdf">Slides</a></td>
+      <td align="center"> -- </td>
+      <td align="center"> -- </a> </td>
+    </tr>
+    <tr>
+      <td>2nd April, 2019</td>
+      <td>
+      <ul>
+		<li> Lucas-Kanade method for Optical Flow
+		<li> Multi-Scale Lucas-Kanade method
+		<li> Comparison of Horn-Shunk and Lucas-Kanade algorithms
+		<li> Applications of Optical Flow
+      </ul></td>
+      <td><a href="https://www.cse.iitb.ac.in/~ajitvr/CS763_Spring2017//OpticalFlow.pdf">Slides</a></td>
       <td align="center"> -- </td>
       <td align="center"> -- </a>
       </td>
