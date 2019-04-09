@@ -378,7 +378,9 @@ learning</a> </a>
       <td>26th March, 2019</td>
       <td>
 	<ul>
-		<li> <strong>Orthographic Structure from Motion</strong>
+		<strong>Orthographic Structure from Motion</strong>
+	<li>Factorization Method
+	<li>Rank Therorem
       </ul></td>
       <td><a href="https://drive.google.com/open?id=1m8sz3hF_qYQ6AoCqWOxq3yWyHHSBQzST">Slides</a></td>
       <td align="center"> -- </td>
@@ -422,8 +424,7 @@ learning</a> </a>
       </ul></td>
       <td><a href="https://drive.google.com/open?id=18oO-sIeJmfLTQTtE9rc7U8Ck8E30U6-x">Slides</a></td>
       <td align="center"> -- </td>
-      <td align="<a href="http://www.ncorr.com/download/publications/bakerunify.pdf">Lucas-Kanade 20 Years On: A Unifying Framework</a><br/>
-      </td>
+      <td> <a href="http://www.ncorr.com/download/publications/bakerunify.pdf">Lucas-Kanade 20 Years On: A Unifying Framework</a></td>
     </tr>
 </tbody>
 </table>
