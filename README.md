@@ -414,12 +414,15 @@ learning</a> </a>
     <tr>
       <td>8th April, 2019</td>
       <td>
-	<ul>
-		<li> <strong>Kanade-Lucas-Tomasi (KLT) Featurepoint Tracker</strong>
+	<strong>Kanade-Lucas-Tomasi (KLT) Featurepoint Tracker</strong>
+	<ul>		
+        <li>Tracking feature-points from a template by estimating motion parameters.
+	<li>Finding good features to track.
+      </ul></td>
       </ul></td>
       <td><a href="https://drive.google.com/open?id=18oO-sIeJmfLTQTtE9rc7U8Ck8E30U6-x">Slides</a></td>
       <td align="center"> -- </td>
-      <td align="center"> -- </a>
+      <td align="<a href="http://www.ncorr.com/download/publications/bakerunify.pdf">Lucas-Kanade 20 Years On: A Unifying Framework</a><br/>
       </td>
     </tr>
 </tbody>
