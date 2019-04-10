@@ -20,6 +20,8 @@
 <li><b>[30/01/19]</b> Assignment 2 has been <a href="https://drive.google.com/open?id=1JSCprJhTn-46qRDst_AcIV9EDDUeBBif">released</a> and is due by 8th Feb.</li>
 <li><b>[10/02/19]</b> Assignment 3 has been <a href="https://drive.google.com/open?id=14LkIcVMAPbO_nemyG6bCsNIOZx7BAfNO">released</a> and is due by 20th Feb.</li>
 <li><b>[13/03/19]</b> Assignment 4 has been <a href="https://drive.google.com/open?id=1SV5JSvpz6MAbEShIqDORj8bG8POsbQk2">released</a> and is due by 23rd March.</li>
+<li><b>[10/04/19]</b> Assignment 5 has been <a href="https://drive.google.com/open?id=1cWT_Li0wBp6IybVgFoctbG-9OVsh0bt2">released</a> and is due by 21st April.</li>
+<li><b>[10/04/19]</b> End-term project evaluation will be held on 6th May. </li>
 </ul>	
 
 <h2>Topics to be covered (tentative)</h2>
@@ -76,12 +78,13 @@ from motion
 As mentioned in the grading policy, this course has a project requirement which will be 20% of your grade. The project needs to be done in a group of 2-3 students. We will send out a form which needs to be filled up with your project proposal. For a list of projects, please check <a href="https://github.com/cs763/Spring2019/tree/master/projects">this link</a>
 
 <h2>Assignments</h2>
-There will be 7-8 assignments in this course. They will be a mix of theoretical and programming questions.
+There will be 5-6 assignments in this course. They will be a mix of theoretical and programming questions.
 <ul>
-	<li> Assignment 1 on Camera Geometry has been <a href="https://drive.google.com/open?id=1CAlU8fp_46d1tpRcC6evWpkDj1_TAhs4">released</a> and is due by 27th Jan.
+	<li> Assignment 1 on Camera Geometry has been <a href="https://drive.google.com/open?id=1CAlU8fp_46d1tpRcC6evWpkDj1_TAhs4">released</a> and is due by 27th Jan.</li>
 	<li> Assignment 2 on Camera Calibration, Image Alignment and Robust Methods has been <a href="https://drive.google.com/open?id=1JSCprJhTn-46qRDst_AcIV9EDDUeBBif">released</a> and is due by 8th Feb.</li>
 	<li> Assignment 3 on Neural Network and Backpropagation has been <a href="https://drive.google.com/open?id=14LkIcVMAPbO_nemyG6bCsNIOZx7BAfNO">released</a> and is due by 20th Feb. Please use <a href="https://www.kaggle.com/t/1ddfc99a4b1a4eb9878a69991b17584c">this</a> Kaggle link to test your predictions and class standing.</li>
 	<li> Assignment 4 on Recurrent Neural Network has been <a href="https://drive.google.com/open?id=1SV5JSvpz6MAbEShIqDORj8bG8POsbQk2">released</a> and is due by 23rd March. Please use <a href="https://www.kaggle.com/t/758d87cd34864370ba209bda72f7d29b">this</a> Kaggle link to test your predictions and class standing.</li>
+	<li> Assignment 5 on Lucas-Kande Tracker and Video Stabilization has been <a href="https://drive.google.com/open?id=1cWT_Li0wBp6IybVgFoctbG-9OVsh0bt2">released</a> and is due by 21st April.</li>
 </ul>
 
 <!--ul>
@@ -425,6 +428,20 @@ learning</a> </a>
       <td><a href="https://drive.google.com/open?id=18oO-sIeJmfLTQTtE9rc7U8Ck8E30U6-x">Slides</a></td>
       <td align="center"> -- </td>
       <td> <a href="http://www.ncorr.com/download/publications/bakerunify.pdf">Lucas-Kanade 20 Years On: A Unifying Framework</a></td>
+    </tr>
+    <tr>
+      <td>9th April, 2019</td>
+      <td>
+	<strong>Geometric Stereo</strong>
+      <ul>		
+        <li>Orientation parameters for the camera pair and relative orientation.
+	<li>Coplanarity constraint for corresponding points
+	<li>Derivation and key properties of the Fundamental matrix
+      </ul></td>
+      </ul></td>
+      <td><a href="https://drive.google.com/open?id=1oEB8sQOTWDIFnTRr10IjyRwCcBEYhfCy">Slides</a></td>
+      <td align="center"> -- </td>
+      <td align="center> -- </td>
     </tr>
 </tbody>
 </table>
