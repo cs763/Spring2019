@@ -400,7 +400,7 @@ learning</a> </a>
       </ul></td>
       <td><a href="https://www.cse.iitb.ac.in/~ajitvr/CS763_Spring2017//OpticalFlow.pdf">Slides</a></td>
       <td align="center"> -- </td>
-      <td align="center"> -- </a> </td>
+      <td align="center"> -- </td>
     </tr>
     <tr>
       <td>2nd April, 2019</td>
@@ -413,8 +413,7 @@ learning</a> </a>
       </ul></td>
       <td><a href="https://www.cse.iitb.ac.in/~ajitvr/CS763_Spring2017//OpticalFlow.pdf">Slides</a></td>
       <td align="center"> -- </td>
-      <td align="center"> -- </a>
-      </td>
+      <td align="center"> -- </td>
     </tr>
     <tr>
       <td>8th April, 2019</td>
@@ -423,7 +422,6 @@ learning</a> </a>
 	<ul>		
         <li>Tracking feature-points from a template by estimating motion parameters.
 	<li>Finding good features to track.
-      </ul></td>
       </ul></td>
       <td><a href="https://drive.google.com/open?id=18oO-sIeJmfLTQTtE9rc7U8Ck8E30U6-x">Slides</a></td>
       <td align="center"> -- </td>
@@ -437,11 +435,36 @@ learning</a> </a>
         <li>Orientation parameters for the camera pair and relative orientation.
 	<li>Coplanarity constraint for corresponding points
 	<li>Derivation and key properties of the Fundamental matrix
-      </ul></td>
+	<li>8-Point Algorithm
       </ul></td>
       <td><a href="https://drive.google.com/open?id=1oEB8sQOTWDIFnTRr10IjyRwCcBEYhfCy">Slides</a></td>
       <td align="center"> -- </td>
-      <td align="center> -- </td>
+      <td align="center"> -- </td>
+    </tr>
+    <tr>
+      <td>15th April, 2019</td>
+      <td>
+	<strong>Geometric Stereo</strong>
+      <ul>		
+        <li>Introduction to epipolar geometry
+	<li>Essential matrix
+      </ul></td>
+      <td><a href="https://drive.google.com/open?id=1aTyz6nR-ZnFmwMaEUGkm5l-SHwpO324U">Slides</a></td>
+      <td align="center"> -- </td>
+      <td align="center"><a href="https://ags.cs.uni-kl.de/fileadmin/inf_ags/3dcv-ws18-19/3DCV_lec04_Epipolar_Geo.pdf">Epipolar Geometry</a></td>
+    </tr>
+    <tr>
+      <td>16th April, 2019</td>
+      <td>
+	<strong>Geometric Stereo</strong>
+      <ul>		
+        <li>Generating the normalized stereo case from arbitrary views
+	<li>Triangulation
+	<li>Popular parameterizations for the relative orientation
+      </ul></td>
+      <td><a href="https://drive.google.com/open?id=1HKFkMSmlZOJ-Qp9djzNYDW0AMC_Po7d5">Slides</a></td>
+      <td align="center"> -- </td>
+      <td align="center"> -- </td>
     </tr>
 </tbody>
 </table>
