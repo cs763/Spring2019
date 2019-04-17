@@ -380,8 +380,8 @@ learning</a> </a>
     <tr>
       <td>26th March, 2019</td>
       <td>
-	<ul>
-		<strong>Orthographic Structure from Motion</strong>
+	<strong>Orthographic Structure from Motion</strong>
+	<ul>	
 	<li>Factorization Method
 	<li>Rank Therorem
       </ul></td>
