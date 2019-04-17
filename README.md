@@ -444,7 +444,6 @@ learning</a> </a>
     <tr>
       <td>15th April, 2019</td>
       <td>
-	<strong>Geometric Stereo</strong>
       <ul>		
         <li>Introduction to epipolar geometry
 	<li>Essential matrix
@@ -456,7 +455,6 @@ learning</a> </a>
     <tr>
       <td>16th April, 2019</td>
       <td>
-	<strong>Geometric Stereo</strong>
       <ul>		
         <li>Generating the normalized stereo case from arbitrary views
 	<li>Triangulation
